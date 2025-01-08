@@ -1,0 +1,1 @@
+Text to Indian Speech Converter: Developed a logic using standard text-to-speech frameworks on Google Colab to create a tool that converts text into speech with an Indian accent. The user can input text in English or Hinglish, clear the input, and convert it to speech. This project enhances accessibility and provides a personalized user experience.
